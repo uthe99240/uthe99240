@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Nothi**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **faisalahmed99240@gmail.com**
 
