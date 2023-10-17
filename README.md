@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **PHP ,Laravel**
 
-- 👯 I’m looking to collaborate on **Worker Database**
+- 👯 I’m looking to collaborate on **GitHub**
 
-- 🤝 I’m looking for help with **Nothi**
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **faisalahmed99240@gmail.com**
 
